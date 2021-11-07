@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rashid80
-- 👀 I’m interested in Java, Kotlin, Python, C#, Go
+- 👀 I’m interested in Backend development: Java, Kotlin, Python, C#, Go
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
